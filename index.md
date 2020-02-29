@@ -1,2 +1,0 @@
-layout: about
-title: about
