@@ -12,7 +12,7 @@ onde se formaliza a ideia de sistema formal ou, até
 mesmo, a outra linguagem, pode ser de lógica diferente
 da lógica na qual se faz referência. Em outras palavras,
 minha lógica de ordem superior( a que usa a minha
-metateoria) pode formalizar lógicas alternativas sem sela
+metateoria) pode formalizar lógicas alternativas sem ser 
 ela mesma desse paradigma. Explico-me: Posso
 formalizar uma sintaxe paraconsistente, um aspecto do
 sistema formal na qual eu me refiro, sem usar a própria
