@@ -1,4 +1,6 @@
 O que é lógica? Um pequeno ensaio.
+
+
 A lógica essencialmente pode ser captada pela ideia de
 sistema formal. Ela investiga, primordialmente, sistemas
 formais. A consequência direta é que ela é, pelo menos
