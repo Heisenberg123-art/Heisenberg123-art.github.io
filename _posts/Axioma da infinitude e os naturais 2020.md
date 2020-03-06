@@ -10,11 +10,11 @@ O leitor pode contestar e dizer que isso não define, em parte, um conjunto infi
 
    1.![img](https://jronaldoferreira.github.io/ImagePost/clip_image018.png)
 
-2. Se ![img](https://jronaldoferreira.github.io/ImagePost/clip_image020.png)
+2. Se  ![img](https://jronaldoferreira.github.io/ImagePost/clip_image020.png)
 
 3. Não existe nenhum n tal que S(n) = 0
 
-   4.Se n,m ![img](https://jronaldoferreira.github.io/ImagePost/clip_image022.png) N, S(n) = S(m), logo m = n.
+4. Se n,m ![img](https://jronaldoferreira.github.io/ImagePost/clip_image022.png) N, S(n) = S(m), logo m = n.
 
 5. Se um conjunto A![img](https://jronaldoferreira.github.io/ImagePost/clip_image024.png)N tem a propriedade de que 0![img](https://jronaldoferreira.github.io/ImagePost/clip_image022.png)A e sempre que n![img](https://jronaldoferreira.github.io/ImagePost/clip_image022.png)A 
 
