@@ -10,5 +10,5 @@ Oi, meu nome é Ronaldo Ferreira, sou apenas um estudante de ciência da computa
 
 
 
-"Vida simples, apenas refletindo sobre a matéria, tempo e espaço."
+"Vida simples, apenas refletindo sobre a materia, tempo e espaço."
 <img src="https://media1.giphy.com/media/z1meXneq0oUh2/source.gif">
