@@ -1,6 +1,3 @@
-<![endif]-->
-
-**O demônio de Laplace e alguns comentários sobre o seriado devs:**
 
 Recentemente assisti o seriado devs na fx, que de modo geral eu achei muito interessante. O termo “devs” se refere ao nome de uma empresa de tecnologia com finalidades e desenvolvimentos altamente secretos; tudo o que a opinião pública e as pessoas sabem é que se trata de uma empresa envolvida com tecnologias envolvendo computação quântica, e o governo, mesmo não sabendo o que rola lá dentro, não tenta se meter nos assuntos da empresa privada do bilionário e cientista Forest(empreendedor?). A devs, tanto a empresa como o seriado em si, explora dois conceitos -que são na verdade, no início, hipóteses para eles-: um suposto determinismo clássico e a identidade das leis da física e todos os seus objetos com simulações de computador.
 
